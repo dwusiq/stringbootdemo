@@ -1,0 +1,6 @@
+/.gradle/
+/build/
+/.idea/
+/out/
+/dist/
+/src/main/webapp/node_modules/
